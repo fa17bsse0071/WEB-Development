@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Layout Master</title>
+	<link rel="stylesheet" type="text/css" href="./style1.css">
+</head>
+<body>
+
+	<nav class="zone green sticky">
+		<ul class="main-nav">
+			<li><a href="">Home</a></li>
+			<li><a href="">About us</a></li>
+			<li><a href="">Portfolio</a></li>
+			<li class="push"><a href="">Contact us</a></li>
+		</ul>
+	</nav>
+
+
+	<div class="container zone red">Slider</div>
+	
+	<div class="zone blue grid-wrapper">
+		<div class="box zone">
+			<img src="https://image.shutterstock.com/image-vector/ sun-flower-cartoon-260nw-426674092.jpg" alt="">
+		</div>
+		<div class="box zone">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dr-f4d5qGAMpgmjbtUKMCfL7JESaUketTBmMpta0y2UPRuVZcw" alt="">
+		</div>
+		<div class="box zone">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dr-f4d5qGAMpgmjbtUKMCfL7JESaUketTBmMpta0y2UPRuVZcw" alt="">
+		</div>
+		<div class="box zone">
+			<img src="https://riyasewana.com/uploads/toyota-starlet-kp61-1941251.jpg" alt="">
+		</div>
+		<div class="box zone">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1981_Toyota_Corona_%28XT130%29_SE_sedan_%282016-01-04%29_01.jpg/280px-1981_Toyota_Corona_%28XT130%29_SE_sedan_%282016-01-04%29_01.jpg" alt="">
+		</div>
+		<div class="box zone">
+			<img src="http://cdn-9chat-fun.9cache.com/media/photo/amvD6VWZ1_480w_v1.jpg" alt="">
+		</div>
+
+	</div>
+
+	<footer class="zone yellow">Footer</footer>
+</body>
+</html>
